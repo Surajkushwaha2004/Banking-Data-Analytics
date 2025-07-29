@@ -1,6 +1,6 @@
-                                                             Banking-Data-Analytics
+                                                             #Banking-Data-Analytics
                                                                     
-                                                            📑 Table of Contents
+                                                            #📑 Table of Contents
 
 - [Introduction]
 - [Data Cleaning]
@@ -16,7 +16,7 @@
 
 
 
-                                                           📚 Resources
+                                                           #📚 Resources
 
 - 📂 [Bank Marketing Dataset (UCI Repository)](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 - 🐍 [Pandas Documentation](https://pandas.pydata.org/docs/)
@@ -29,11 +29,11 @@
 
 
 
-                                                            1️⃣ Use Case / Description of the Project
+                                                            #1️⃣ Use Case / Description of the Project
 This project focuses on analyzing customer data from a Portuguese bank's direct marketing campaign. The goal is to identify patterns that influence whether a client subscribes to a term deposit. The project uses Python for data analysis, MySQL for querying structured data, and Power BI for data visualization. By examining customer demographics, call duration, contact types, and time of year, this project helps uncover actionable business insights to improve future marketing strategies.
 
 
-                                                            2️⃣ Dataset
+                                                            #2️⃣ Dataset
 Name: bank-full.csv
 
 Source: UCI Machine Learning Repository – Bank Marketing Dataset
@@ -44,7 +44,7 @@ Features: Includes customer info such as age, job, marital status, education, de
 
                                                            
                                                             
-                                                            3️⃣ Scope of the Project
+                                                            #3️⃣ Scope of the Project
 Import, clean, and explore real-world banking data using Python (Pandas, Seaborn)
 
 Build SQL tables and run queries to segment and filter customers
@@ -63,7 +63,7 @@ Support decision-making for marketing teams and management
 
 
 
-                                                            4️⃣ Users (Who Can Use This Project)
+                                                            #4️⃣ Users (Who Can Use This Project)
 🎓 Students & Learners: As a portfolio project to learn Python, SQL, and Power BI.
 
 🧠 Data Analysts & BI Developers: For practice or presenting real-world use cases.
@@ -73,7 +73,7 @@ Support decision-making for marketing teams and management
 🧑‍💼 Hiring Managers: As a reference for evaluating data skills in analytics roles. 
 
 
-                                                            5️⃣ Final Outcome
+                                                            #5️⃣ Final Outcome
 A fully documented project showcasing:
 
 Python-based Exploratory Data Analysis (EDA)
@@ -88,7 +88,7 @@ A ready-to-deploy GitHub repository useful for interviews, learning, or real app
 
                                                          
                                                          
-                                                         🔗 Connecting Python to MySQL
+                                                         #🔗 Connecting Python to MySQL
 
 To interact with MySQL databases in this project, we use the mysql-connector-python library. It allows Python code to send queries and fetch results from your MySQL server.
 
@@ -134,7 +134,7 @@ Use fetchall() or fetchone() to retrieve data.
 
 
 
-                                                               🙏 Acknowledgement
+                                                               #🙏 Acknowledgement
 
 I would like to express my sincere gratitude to the following:
 
