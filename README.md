@@ -1,4 +1,4 @@
-                                                             # Banking-Data-Analytics
+                                                             Banking-Data-Analytics
                                                                     
                                                             📑 Table of Contents
 
@@ -29,7 +29,7 @@
 
 
 
-                                                          n 1️⃣ Use Case / Description of the Project
+                                                            1️⃣ Use Case / Description of the Project
 This project focuses on analyzing customer data from a Portuguese bank's direct marketing campaign. The goal is to identify patterns that influence whether a client subscribes to a term deposit. The project uses Python for data analysis, MySQL for querying structured data, and Power BI for data visualization. By examining customer demographics, call duration, contact types, and time of year, this project helps uncover actionable business insights to improve future marketing strategies.
 
 
