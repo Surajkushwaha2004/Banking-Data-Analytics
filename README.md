@@ -12,7 +12,7 @@
 - [Author]
 
 
-https://github.com/Surajkushwaha2004/Banking-Data-Analytics/blob/976e805838827f4ac8499e8d1b6f9b6961902048/image.jpg                                                        
+![image alt](https://github.com/Surajkushwaha2004/Banking-Data-Analytics/blob/976e805838827f4ac8499e8d1b6f9b6961902048/image.jpg?row=true)                                                     
 
 
 
