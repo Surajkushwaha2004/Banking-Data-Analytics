@@ -10,6 +10,12 @@
 - [Insights & Conclusion]
 - [How to Run]
 - [Author]
+
+
+https://github.com/Surajkushwaha2004/Banking-Data-Analytics/blob/976e805838827f4ac8499e8d1b6f9b6961902048/image.jpg                                                        
+
+
+
                                                            📚 Resources
 
 - 📂 [Bank Marketing Dataset (UCI Repository)](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
