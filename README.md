@@ -86,52 +86,6 @@ Business insights that can improve marketing campaign efficiency
 
 A ready-to-deploy GitHub repository useful for interviews, learning, or real applications   
 
-                                                         
-                                                         
-                                                         #🔗 Connecting Python to MySQL
-
-To interact with MySQL databases in this project, we use the mysql-connector-python library. It allows Python code to send queries and fetch results from your MySQL server.
-
-✅ 1. Install the MySQL Connector
-Open your terminal or command prompt and run:
-pip install mysql-connector-python
-
-✅ 2. Python Code to Connect
-
-import mysql.connector
-
-# Create the connection
-connection = mysql.connector.connect(
-    host="localhost",        # your database server, usually localhost
-    user="root",             # your MySQL username
-    password="your_password",# your MySQL password
-    database="banking_case"  # name of your MySQL database
-)
-
-# Create a cursor object to run SQL queries
-cursor = connection.cursor()
-
-# Example query
-cursor.execute("SELECT * FROM customer LIMIT 5;")
-results = cursor.fetchall()
-
-# Display results
-for row in results:
-    print(row)
-
-# Close the connection
-cursor.close()
-connection.close()
-
-🛠️ 3. Notes
-Make sure MySQL is installed and running on your system.
-
-Replace "your_password" and "banking_case" with your actual credentials and database name.
-
-Use cursor.execute() to run any SQL command from Python.
-
-Use fetchall() or fetchone() to retrieve data.
-
 
 
                                                                #🙏 Acknowledgement
